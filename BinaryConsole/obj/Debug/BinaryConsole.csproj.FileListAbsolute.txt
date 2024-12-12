@@ -1,0 +1,7 @@
+C:\Users\eren5\source\repos\BinaryConsole\bin\Debug\BinaryConsole.exe.config
+C:\Users\eren5\source\repos\BinaryConsole\bin\Debug\BinaryConsole.exe
+C:\Users\eren5\source\repos\BinaryConsole\bin\Debug\BinaryConsole.pdb
+C:\Users\eren5\source\repos\BinaryConsole\obj\Debug\BinaryConsole.csproj.AssemblyReference.cache
+C:\Users\eren5\source\repos\BinaryConsole\obj\Debug\BinaryConsole.csproj.CoreCompileInputs.cache
+C:\Users\eren5\source\repos\BinaryConsole\obj\Debug\BinaryConsole.exe
+C:\Users\eren5\source\repos\BinaryConsole\obj\Debug\BinaryConsole.pdb
